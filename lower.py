@@ -6,6 +6,5 @@ print(name.lower()) #chandani singh
 
 print(name.upper()) #CHANDANI SINGH
 
-print(name.title())  #Chandani Singh
 
 print(name.count("a"))
