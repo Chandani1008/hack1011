@@ -1,11 +1,11 @@
-name="ChaNDaNi KuMaRI"
+name="ChaNDaNi siNGh"
 
 print(len(name))     #12(length of string inluding spaces)
 
-print(name.lower()) #chandani kumari
+print(name.lower()) #chandani singh
 
-print(name.upper()) #CHANDANI KUMARI
+print(name.upper()) #CHANDANI SINGH
 
-print(name.title())  #Chandani Kumari
+print(name.title())  #Chandani Singh
 
 print(name.count("a"))
